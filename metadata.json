@@ -1,0 +1,7 @@
+{
+  "name": "Readr8 - Deine persönliche Lese-Reise",
+  "description": "Eine elegante Plattform zum Verwalten deiner Buchrezensionen, organisiert nach Jahren, mit KI-gestützten Einblicken.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
